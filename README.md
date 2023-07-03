@@ -14,7 +14,7 @@ ___________________________________________________________
     <h3>Full Stack Developer from New York</h3>
 </div>
 
-<div id="socials" style="align:center; color:red;">
+<div id="socials" style="color:red">
     <a href="linkedin-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
