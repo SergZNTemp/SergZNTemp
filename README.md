@@ -11,10 +11,10 @@
 ___________________________________________________________
 <div id="header" align="center">
     <h1>Hi there, I'm  Ivan </h1>
-    <h3>Full Stack Developer from New York</h3>
+    <h3 color="red">Full Stack Developer from New York</h3>
 </div>
 
-<div id="socials" color="red">
+<div id="socials" align="center">
     <a href="linkedin-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
