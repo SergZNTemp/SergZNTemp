@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## I'm beginner front-end developer.
+
+# My stack for lerning:
+ - html, css, scss
+ - js, ts
+ - react, mobX(redux)
+ - node.js, express
+
+   
 <!--
 **SergZNTemp/SergZNTemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
